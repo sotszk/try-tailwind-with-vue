@@ -1,0 +1,10 @@
+{
+  "name": "tailwind-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "tailwindcss": "^1.2.0"
+  }
+}
